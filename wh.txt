@@ -306,6 +306,284 @@
       "filterable":1,
       "jar": "./jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
     },
+     {
+
+            "key" : "py_cctv",
+
+            "name" : "🌏央视频道py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctv.py"
+
+        },
+
+        {
+
+            "key" : "py_cctvzh",
+
+            "name" : "📺央视综合py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctvzh.py"
+
+        },
+
+        {
+
+            "key" : "py_cctvxw",
+
+            "name" : "📺央视新闻py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctvxw.py"
+
+        },
+
+        {
+
+            "key" : "py_cctvzy",
+
+            "name" : "📺央视综艺py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctvzy.py"
+
+        },
+
+        {
+
+            "key" : "py_cctvdy",
+
+            "name" : "📺央视电影py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctvdy.py"
+
+        },
+
+        {
+
+            "key" : "py_cctvty",
+
+            "name" : "📺央视体育py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctvty.py"
+
+        },
+
+        {
+
+            "key" : "py_cctvfz",
+
+            "name" : "📺央视法治py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctv.py"
+
+        },
+{
+
+            "key" : "py_cctvkj",
+
+            "name" : "📺央视科教py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctvkj.py"
+
+        },
+
+        {
+
+            "key" : "py_cctvyy",
+
+            "name" : "📺央视音乐py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctvyy.py"
+
+        },
+
+        {
+
+            "key" : "py_cctvse",
+
+            "name" : "📺央视少儿py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctvse.py"
+
+        },
+
+        {
+
+            "key" : "py_cctvny",
+
+            "name" : "📺央视农业py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctvny.py"
+
+        },
+
+        {
+
+            "key" : "py_cctvjs",
+
+            "name" : "📺央视军事py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctvjs.py"
+
+        },
+
+        {
+
+            "key" : "py_cctvxq",
+
+            "name" : "📺央视戏曲py",
+
+            "type" : 3,
+
+            "api" : "py_cctv",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_cctvxq.py"
+
+        },
+
+        {
+
+            "key" : "py_bilibili",
+
+            "name" : "🅱️哔哩哔哩py",
+
+            "type" : 3,
+
+            "api" : "py_bilibili",
+
+            "searchable" : 0,
+
+            "quickSearch" : 0,
+
+            "filterable" : 1,
+
+            "ext" : "./py/py_bilibili.py"
+
+        },
     {
       "key": "py_alist",
       "name": "🗂Alistpy",
